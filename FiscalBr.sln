@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29001.49
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{5C2A527E-0639-46CE-8DE5-225883B09579}"
 EndProject
@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{735BA9C1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiscalBr.Dimob", "src\FiscalBr.Dimob\FiscalBr.Dimob.csproj", "{DC44AD0F-11C3-4A89-BF61-978D736AE6D7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiscalBr.Common", "src\FiscalBr.Common\FiscalBr.Common.csproj", "{894EE71E-A312-4829-A577-2C67F1807F11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpedSiafPlus.Common", "src\FiscalBr.Common\SpedSiafPlus.Common.csproj", "{894EE71E-A312-4829-A577-2C67F1807F11}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiscalBr.Sintegra", "src\FiscalBr.Sintegra\FiscalBr.Sintegra.csproj", "{79DF89B3-4320-4EBD-8CE0-CA71DDAADD71}"
 EndProject

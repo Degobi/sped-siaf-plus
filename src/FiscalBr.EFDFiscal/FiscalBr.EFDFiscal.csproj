@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.1;netstandard2.0;net48;net472;net461;net46;net452;net451;net45</TargetFrameworks>
+    <TargetFrameworks>netstandard2.1;netstandard2.0;net48;net472;net461;net46;net452;net451</TargetFrameworks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>orochasamuel sroliveira</Authors>
     <Company>orochasamuel sroliveira</Company>
@@ -11,10 +11,11 @@
     <PackageProjectUrl>https://github.com/orochasamuel/fiscalbr.net</PackageProjectUrl>
     <PackageTags>fiscalbr  efd sped fiscal icms ipi</PackageTags>
     <Version>2.0.2</Version>
+    <AutoGenerateBindingRedirects>True</AutoGenerateBindingRedirects>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FiscalBr.Common\FiscalBr.Common.csproj" />
+    <ProjectReference Include="..\FiscalBr.Common\SpedSiafPlus.Common.csproj" />
   </ItemGroup>
 
 </Project>

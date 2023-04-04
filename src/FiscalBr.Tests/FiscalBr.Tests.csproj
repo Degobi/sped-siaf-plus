@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FiscalBr.Common\FiscalBr.Common.csproj" />
+    <ProjectReference Include="..\FiscalBr.Common\SpedSiafPlus.Common.csproj" />
     <ProjectReference Include="..\FiscalBr.Dimob\FiscalBr.Dimob.csproj" />
     <ProjectReference Include="..\FiscalBr.ECF\FiscalBr.ECF.csproj" />
     <ProjectReference Include="..\FiscalBr.EFDContribuicoes\FiscalBr.EFDContribuicoes.csproj" />

@@ -286,6 +286,9 @@ namespace FiscalBr.Common
         [DefaultValue("016")] V16,
 
         [DefaultValue("017")] V17,
+        [DefaultValue("018")] V18,
+        [DefaultValue("019")] V19,
+        [DefaultValue("020")] V20,
     }
 
     public enum SimOuNao
